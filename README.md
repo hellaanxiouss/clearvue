@@ -15,6 +15,9 @@ Welcome to ClearVue, a minimalist landing page for a photography-based startup. 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/hellaanxiouss/clearvue/blob/main/LICENSE) file for details.
 
+## View the Landing Page
+To see the ClearVue landing page, visit: [ClearVue Landing Page](https://hellaanxiouss.github.io/clearvue/)
+
 ## How to Use
 1. Clone this repository to your local machine using one of the following methods:
    - HTTPS: `git clone https://github.com/hellaanxiouss/clearvue.git`
