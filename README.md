@@ -13,7 +13,7 @@ Welcome to ClearVue, a minimalist landing page for a photography-based startup. 
 - CSS
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/hellaanxiouss/clearvue/blob/main/LICENSE) file for details.
 
 ## How to Use
 1. Clone this repository to your local machine using one of the following methods:
